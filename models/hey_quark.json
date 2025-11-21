@@ -1,6 +1,6 @@
 {
   "type": "micro",
-  "wake_word": "hey quark",
+  "wake_word": "Hey Quark",
   "author": "Miquel Madalone",
   "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-Nvidia-Docker.git",
   "model": "hey_quark.tflite",
