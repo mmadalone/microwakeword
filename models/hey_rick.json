@@ -3,7 +3,7 @@
   "wake_word": "Hey Rick",
   "author": "Miquel Madalone",
   "website": "https://github.com/TaterTotterson/microWakeWord-Trainer-Nvidia-Docker.git",
-  "model": "hey rick.tflite",
+  "model": "hey_rick.tflite",
   "trained_languages": [
     "en"
   ],
